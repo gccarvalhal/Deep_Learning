@@ -2,7 +2,7 @@
 
 **GOAL:** Pratice different deep learning classification methods
 
-###**Methods:
+### Methods:
 
 - **Logistic Regression**
     - **Notebooks:** _LogisticRegression_X_RNN.ipynb_
