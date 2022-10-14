@@ -1,13 +1,8 @@
 # Deep Learning
 
-# Customer Clustering
+**GOAL:** Pratice different deep learning classification methods
 
-1)	**Database Files:** all the data is in the database.zip
-2)	**Download Script:** Customer_Segmentation.zip
-
-**CASE GOAL:** Segment customers based on different clustering methods and strategies.
-
-- **DBSCAN** (Density-based clustering method)
+- **CNN** (Density-based clustering method)
     - Min. samples and Epsilon parameters defined using two
     - methodologies (K-NN and K-MEANS)
     - **Notebooks:** _Customer_Segmentation_DBSCAN_VF3_6M-Filter.ipynb_ and _Customer_Segmentation_DBSCAN_VF3_12M-Filter.ipynb_
